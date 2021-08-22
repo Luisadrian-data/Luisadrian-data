@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luisadrian-data
-- 👀 I’m interested in databases and datanalalytics and python
+- 👀 I’m interested in databases and data analytics, python and fullstack
 - 🌱 I’m currently learning university student in dev
-- 💞️ I’m looking to collaborate on data analysis and python, r, sql, mysql languages.
+- 💞️ I’m looking to collaborate on data analysis and python, r, sql, mysql languages, HTML, CSS and JS.
 - 📫 How to reach me ''linkedin.com/in/luis-machado-dev''
 
 <!---
